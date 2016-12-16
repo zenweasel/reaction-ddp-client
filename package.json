@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/zenweasel/reaction-ddp-client#readme",
   "dependencies": {
-    "config": "^1.24.0",
-    "ddp": "^0.12.1"
+    "ddp": "^0.12.1",
+    "lodash": "^4.17.2"
   }
 }
